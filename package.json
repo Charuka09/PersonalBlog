@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/Charuka09/PersonalBlog",
+  "homepage": "http://Charuka09.github.io/PersonalBlog/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
