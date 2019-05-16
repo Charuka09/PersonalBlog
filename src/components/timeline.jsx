@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Internship at Juniper</a> <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2><a href="#">Reading for the Internship at WSO2</a> <span>2019 onwards</span></h2>
+                        <p></p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Undergraduation at DAIICT</a> <span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2><a href="#">Undergraduation at UNiversity of Moratuwa</a> <span>2015-2019</span></h2>
+                        <p>I am reading for my degree in Information Technology(Hons) at faculty of Information Technology. During the life at university i have followed course modules including C, Jave, Web development, DSA, AI, Cognitive Systems and Logic programming, Software Engineering methods, Database, Advanced Database, Automata Theory, Mathematics and Statistics ect.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Primary and Higher Education</a> <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2><a href="#">Primary and Higher Education</a> <span>2001-2014</span></h2>
+                        <p>I have completed my Advanced Level Examination with Mathematics, Physics and Chemistry.During schooling I became the Assistant Head Prefect, became a member of many shool socieies incuiding Rotery club, Interact Club, English society, scout club etc. and sport teams, including crircet team, chess team and wushu/boxing team </p> 
                       </div>
                     </div>
                   </article>
