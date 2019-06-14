@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am an enthusiastic, energetic, self learning Undergraduate in University of Moratuwa. I have developed my self as a software engineering student with the knowledge of web development, IoT and mobile application development. I am so keen to learn new technologies and apply them with real world applications. Angular4+,ReactJS, NodeJs, express, MongoDB, FireStore, Jira, Git, Jenkins are some of tech stuff I worked with</p>
+                    <p>I am an enthusiastic, energetic, self learning Undergraduate at University of Moratuwa. I have developed my self as a software engineering student with the knowledge of web development, IoT and mobile application development. I am so keen to learn new technologies and apply them with real world applications. Angular4+,ReactJS, NodeJs, express, MongoDB, FireStore, Jira, Git, Jenkins are some of tech stuff I worked with</p>
                     </div>
                 </div>
                 </div>

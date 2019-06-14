@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Undergraduation at UNiversity of Moratuwa</a> <span>2015-2019</span></h2>
+                        <h2><a href="#">Undergraduate at University of Moratuwa</a> <span>2015-2019</span></h2>
                         <p>I am reading for my degree in Information Technology(Hons) at faculty of Information Technology. During the life at university i have followed course modules including C, Jave, Web development, DSA, AI, Cognitive Systems and Logic programming, Software Engineering methods, Database, Advanced Database, Automata Theory, Mathematics and Statistics ect.</p>
                       </div>
                     </div>
