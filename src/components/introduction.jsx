@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/home.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/cover.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -15,14 +15,14 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Charuka</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1pmkIr4BwkhxTtGb0i6aDHwuZv3N5oAED/view" target="_blank">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/drive/u/0/search?q=uom" target="_blank">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/home.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/cover2.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -44,8 +44,8 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>Sometimes I <br/>Write ... </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://medium.com/@charuka09" target="_blank">View Blog <i className="icon-book" /></a></p>
+                          <h1>As a hobby I <br/>Write ... Alot</h1>
+                          <p><a className="btn btn-primary btn-learn" href="https://medium.com/@charuka95" target="_blank">View Blog <i className="icon-book" /></a></p>
                         </div>
                       </div>
                     </div>

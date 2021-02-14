@@ -11,9 +11,9 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am an enthusiastic, energetic, self learning Undergraduate at University of Moratuwa. I have developed my self as a software engineering student with the knowledge of web development, IoT and mobile application development. I am so keen to learn new technologies and apply them with real world applications. Angular4+,ReactJS, NodeJs, express, MongoDB, FireStore, Jira, Git, Jenkins are some of tech stuff I worked with</p>
+                    <p>A Software Engineer at Sysco LABS and a dedicated and performance-driven individual who's with a proactive approach and determination to success. A tech enthusiast. A developer. A writer. A quick learner and an effective team player who always tends to reach out of the comfort zone. A human who prefers equality.</p>
                     </div>
                 </div>
                 </div>
@@ -37,7 +37,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,Angualr,NodeJS,HTML,CSS etc.</p>
+                    <p>I have experience in fullstack mobile and web development. Technologies: MEAN-Stack, MERN-stack, React-native, SprtinBoot, Ballerina, AWS, Serverless-stack, MySQL, firebase, tomact, GIT, CI/CD, Agile-scrum</p>
                 </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>As coming from the CS background, I have good grasp over concepts of DSA</p>
                 </div>
                 </div>
             </div>
@@ -58,8 +58,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>IOT</h3>
-                    <p>I am doing IOT and robotics in Ardunio and Atmega. And have experience in few workshops with Japanese students</p>
+                    <h3>Machine Learning</h3>
+                    <p>I have experience in AI, ANN, ML, Digital image processing, NLP related technologies.</p>
                 </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Tech Volunteering</h3>
-                    <p>Currently I am a volunteer of MicroBIT:slug which partership with Microsoft Sri Lanka</p>
+                    <p>I have a volunteer of MicroBIT:slug which partership with Microsoft Sri Lanka and IEEE university of Moratuwa</p>
                 </div>
                 </div>
             </div>

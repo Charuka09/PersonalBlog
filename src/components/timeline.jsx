@@ -17,12 +17,34 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2><a href="#">Software Engineer-intern at Sysco LABS</a> <span>2021-03 to Present</span></h2>
+                        <p>I work as a full-stack develper at Sysco LABS Sri Lanka. Technologies: React, AWS, Java SpringBoot</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2><a href="#">Former Software Engineer-intern at WSO2</a> <span>2019-08 to 2021-03</span></h2>
+                        <p>I have developed the WSO2 expenses claims app and WSO2 OPD claims app. Technologies: React, Ballerina, MySQL, Java, python, OAuth1, Tomacat server</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Reading for the Internship at WSO2</a> <span>2019 onwards</span></h2>
-                        <p></p>
+                        <h2><a href="#">Former Part-time Software Engineer at Electrobeam</a> <span>2019-06 to 20210-01</span></h2>
+                        <p>I contibuted in developing Udinate.com, Udinate mobile app and taxco.ca websites and moblie application. Technologies: Angular, React, React-native, MEAN-Stack, MERN-stack, AWS, Serverless-stack, MySQL</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +54,19 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Undergraduate at University of Moratuwa</a> <span>2015-2019</span></h2>
-                        <p>I am reading for my degree in Information Technology(Hons) at faculty of Information Technology. During the life at university i have followed course modules including C, Jave, Web development, DSA, AI, Cognitive Systems and Logic programming, Software Engineering methods, Database, Advanced Database, Automata Theory, Mathematics and Statistics ect.</p>
+                        <h2><a href="#">Research Student at Shibaura Institute of Technology, Tokyo, Japan</a> <span>2020</span></h2>
+                        <p>I have participated to an image processing and a Robotic workshop at Tokyo, Japan by representing university as a research student.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2><a href="#">Bsc. (Hons) in Information Technology at University of Moratuwa</a> <span>2015-2021</span></h2>
+                        <p>I have completed my degree in Information Technology(Hons) at faculty of Information Technology.</p>
                       </div>
                     </div>
                   </article>

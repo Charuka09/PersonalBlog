@@ -8,7 +8,7 @@ export default class Sidebar extends Component {
           <a href="#" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></a>
           <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(images/profile.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Charuka Herath</a></h1>
               <span className="email"><i className="icon-mail"></i> charuka09@gmail.com</span>
               <span className="number"><i className="icon-phone"></i> +94-77-5543-531</span>
@@ -28,10 +28,10 @@ export default class Sidebar extends Component {
               <ul id="menu">
                 <li><a href="https://www.facebook.com/charuka.herath.9" target="_blank"><i className="icon-facebook2" /></a></li>
                 {/* <li><a href="https://twitter.com/ddbarochiya" target="_blank"><i className="icon-twitter2" /></a></li> */}
-                <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank"><i className="icon-instagram" /></a></li>
+                <li><a href="" target="_blank"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/charuka-herath" target="_blank"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/Charuka09" target="_blank"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@charuka09" target="_blank"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://medium.com/@charuka95" target="_blank"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             {/* <div className="colorlib-footer">
